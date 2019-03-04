@@ -1,12 +1,21 @@
 {
-    "id": "5073df76-7208-45fc-a10e-52bd87db6100",
+    "id": "764ba07f-d700-489b-b756-472efb66c6f5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flower",
+    "name": "obj_item_potion",
     "eventList": [
-        
+        {
+            "id": "905a6a25-65b9-4240-b163-1fc151bc2d2e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "764ba07f-d700-489b-b756-472efb66c6f5"
+        }
     ],
-    "maskSpriteId": "7689dfa8-23f5-4713-9123-f30c51e1885c",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "4827d5eb-dad9-46fc-8edd-b64dbccad7de",
     "persistent": false,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7689dfa8-23f5-4713-9123-f30c51e1885c",
+    "spriteId": "09391a93-3fd2-4d45-afa6-d96fca05448c",
     "visible": true
 }

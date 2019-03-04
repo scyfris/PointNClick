@@ -31,7 +31,7 @@ enum item
  total
  }
  
- /*
+ 
  //Create a ds grid item.total wide, and item_stat.total tall
 global.item_index = ds_grid_create(item.total, item_stat.total);
 ds_grid_clear(global.item_index, 0); //Set every position to 0
@@ -41,6 +41,7 @@ scr_add_weapon(item.staff, "Staff", "A magic staff, pulsing with power.", 5);
 
 scr_add_food(item.apple, "Apple", "Pretty basic. In every RPG.",  10);
 scr_add_food(item.health_potion, "Health Potion", "It's red. Like normal.", 25);
+
 
 global.inventory = ds_grid_create(10, 2);
 ds_grid_clear(global.inventory, 0);
@@ -60,4 +61,8 @@ while (slot < ds_grid_width(global.inventory))
  var inst = instance_create_layer(x+8+(64*slot), y+8, "Instances", obj_slot);
  inst.var_slot = slot;
  slot ++;
- }*/
+ }
+ 
+ 
+ //// Mouse slot
+ global.mouse_slot=ds_grid_create(1, 2);

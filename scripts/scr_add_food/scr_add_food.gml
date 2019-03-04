@@ -11,6 +11,3 @@ global.item_index[# iid, item_stat.description] = argument2;
 global.item_index[# iid, item_stat.health_gain] = argument3;
 
 global.item_index[# iid, item_stat.type] = item_type.food;
-
-scr_add_food(item.apple, "Apple", "Pretty basic. In every RPG.",  10);
-scr_add_food(item.health_potion, "Health Potion", "It's red. Like normal.", 25);

@@ -11,8 +11,11 @@ if (mouse_check_button_pressed(mb_left)) {
 
 if (m_isMoving == true)
 {
-	if (mp_potential_step(m_movingToX, m_movingToY, 5, 1)) {
+	if (mp_linear_step(m_movingToX, m_movingToY, 5, 0)) {
 		m_isMoving = false;
 	}
-	
+/*	if (mp_potential_step(m_movingToX, m_movingToY, 5, 1)) {
+		m_isMoving = false;
+	}
+*/	
 }

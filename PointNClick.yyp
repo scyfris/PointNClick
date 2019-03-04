@@ -15,18 +15,10 @@
             {
                 "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
                 "Value": {
-                    "id": "10b8a9a5-9ff2-4414-9f97-197e44c0a45c",
-                    "modelName": "GMResourceInfo",
-                    "mvc": "1.0",
-                    "configDeltaFiles": [
-                        
-                    ],
                     "configDeltas": [
                         "inherited"
                     ],
-                    "resourceCreationConfigs": [
-                        "default"
-                    ],
+                    "id": "10b8a9a5-9ff2-4414-9f97-197e44c0a45c",
                     "resourcePath": "options\/main\/options_main.yy",
                     "resourceType": "GMMainOptions"
                 }
@@ -42,17 +34,6 @@
             "Key": "046e0c3b-7967-4f59-bf22-ab3efde75ce7",
             "Value": {
                 "id": "c8dc7557-fcef-4342-bf69-b8fbb22f8887",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/046e0c3b-7967-4f59-bf22-ab3efde75ce7.yy",
                 "resourceType": "GMFolder"
             }
@@ -61,17 +42,6 @@
             "Key": "09391a93-3fd2-4d45-afa6-d96fca05448c",
             "Value": {
                 "id": "ffae5786-5cbd-4873-bb4f-2ff2b1061e3e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_item\/spr_item.yy",
                 "resourceType": "GMSprite"
             }
@@ -80,17 +50,6 @@
             "Key": "0a32dc09-ed88-47dd-bd0e-21bd6497837d",
             "Value": {
                 "id": "796dca68-ed51-4e2d-a80d-a81b589eea46",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/0a32dc09-ed88-47dd-bd0e-21bd6497837d.yy",
                 "resourceType": "GMFolder"
             }
@@ -99,17 +58,6 @@
             "Key": "12d9cc5f-d3bc-4f61-996f-5f6fa00aa285",
             "Value": {
                 "id": "0f287672-058c-45d6-bba5-6046e8748c55",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/12d9cc5f-d3bc-4f61-996f-5f6fa00aa285.yy",
                 "resourceType": "GMFolder"
             }
@@ -118,17 +66,6 @@
             "Key": "1353e019-0aad-4dd6-a33b-9d284f1f4a6f",
             "Value": {
                 "id": "856bb0d9-8691-4a63-91d0-96c04c18b211",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/sprite2\/sprite2.yy",
                 "resourceType": "GMSprite"
             }
@@ -137,17 +74,6 @@
             "Key": "1b1875e7-ff22-4fab-938c-5dabea08be7e",
             "Value": {
                 "id": "5c6e758b-5ef9-4991-8dfe-661ec6a2a0b3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_slot_modify_amount\/scr_slot_modify_amount.yy",
                 "resourceType": "GMScript"
             }
@@ -156,17 +82,6 @@
             "Key": "258f9dd1-5227-474d-8511-cd31a82a0096",
             "Value": {
                 "id": "05ff6c62-b8c8-4e9b-aa5a-92cfb9d8b48f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_gain_item\/scr_gain_item.yy",
                 "resourceType": "GMScript"
             }
@@ -175,17 +90,6 @@
             "Key": "2d6ceb63-cb5b-4eec-bf6c-340fd3218005",
             "Value": {
                 "id": "76a9e59d-1b00-480a-b00a-99342d7d45d6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/2d6ceb63-cb5b-4eec-bf6c-340fd3218005.yy",
                 "resourceType": "GMFolder"
             }
@@ -194,17 +98,6 @@
             "Key": "3089630d-09fb-43c3-bb4d-a9529f90a6d1",
             "Value": {
                 "id": "bb7fc873-fd62-4166-ac39-c3973e4a351b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/3089630d-09fb-43c3-bb4d-a9529f90a6d1.yy",
                 "resourceType": "GMFolder"
             }
@@ -213,36 +106,22 @@
             "Key": "3c7a8af8-086c-44bd-827e-503c84d73aaa",
             "Value": {
                 "id": "19753446-96a6-4d75-9df2-4e0581eba62b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/3c7a8af8-086c-44bd-827e-503c84d73aaa.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4827d5eb-dad9-46fc-8edd-b64dbccad7de",
+            "Value": {
+                "id": "dfabfbd5-e7b9-4e64-90b0-f92e296971f4",
+                "resourcePath": "objects\\obj_item\\obj_item.yy",
+                "resourceType": "GMObject"
             }
         },
         {
             "Key": "4af82b2c-13c9-4c99-972e-cff15d99429a",
             "Value": {
                 "id": "8f26c03c-29b2-4360-b781-7027dd727856",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/Player\/Player.yy",
                 "resourceType": "GMSprite"
             }
@@ -251,17 +130,6 @@
             "Key": "4bb04d0f-e0b9-498a-a065-9cc6710fbe3b",
             "Value": {
                 "id": "2c23beea-c712-46a1-b1dd-581c72564f82",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/4bb04d0f-e0b9-498a-a065-9cc6710fbe3b.yy",
                 "resourceType": "GMFolder"
             }
@@ -270,17 +138,6 @@
             "Key": "4d0c91a2-5fec-4208-bbb8-f72912c2b6b3",
             "Value": {
                 "id": "001b6e73-353b-4e1f-9189-b2c4db994945",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/4d0c91a2-5fec-4208-bbb8-f72912c2b6b3.yy",
                 "resourceType": "GMFolder"
             }
@@ -289,17 +146,6 @@
             "Key": "4d0ed451-abcf-4b1a-bef3-04dcb687b3a1",
             "Value": {
                 "id": "ab92c85a-27ab-4468-9234-ed1d9af9cad4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/4d0ed451-abcf-4b1a-bef3-04dcb687b3a1.yy",
                 "resourceType": "GMFolder"
             }
@@ -308,17 +154,6 @@
             "Key": "5073df76-7208-45fc-a10e-52bd87db6100",
             "Value": {
                 "id": "a9894e0e-6523-48ed-ae32-d27ae669795c",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_flower\/obj_flower.yy",
                 "resourceType": "GMObject"
             }
@@ -327,36 +162,22 @@
             "Key": "749aeeeb-e282-4475-8ad4-e57628a331af",
             "Value": {
                 "id": "7393cd8d-825e-415b-9476-8c062ba8b6e0",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/749aeeeb-e282-4475-8ad4-e57628a331af.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "764ba07f-d700-489b-b756-472efb66c6f5",
+            "Value": {
+                "id": "c4650c59-4645-477f-8563-5c3b82618a11",
+                "resourcePath": "objects\\obj_item_potion\\obj_item_potion.yy",
+                "resourceType": "GMObject"
             }
         },
         {
             "Key": "7689dfa8-23f5-4713-9123-f30c51e1885c",
             "Value": {
                 "id": "1cfe3c2b-5f98-4ca0-8b06-9919774d3cb3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/Flower\/Flower.yy",
                 "resourceType": "GMSprite"
             }
@@ -365,36 +186,22 @@
             "Key": "7a37afc1-b328-4c71-85fd-b5aab031290e",
             "Value": {
                 "id": "44e3ad65-e21a-461f-a751-10da44c5ed40",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/spr_ground\/spr_ground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80c4bf0a-f710-45ac-b00d-52901e14140d",
+            "Value": {
+                "id": "2e162390-1481-4e0b-ada2-c643a40856ce",
+                "resourcePath": "scripts\\scr_dialogue_print\\scr_dialogue_print.yy",
+                "resourceType": "GMScript"
             }
         },
         {
             "Key": "99354821-f078-4705-aa99-4a92ffffde08",
             "Value": {
                 "id": "32b2bcc0-b137-4046-bb47-6c29a05f3abd",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_inventory\/obj_inventory.yy",
                 "resourceType": "GMObject"
             }
@@ -403,36 +210,30 @@
             "Key": "9cced95e-d840-4ff1-bb4d-40f42fe52518",
             "Value": {
                 "id": "0fd9cdd4-7b4b-498d-98c1-8e0c13638e99",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/9cced95e-d840-4ff1-bb4d-40f42fe52518.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d9a6515-cb51-4965-bdb6-fcd5bdecddf6",
+            "Value": {
+                "id": "4881e5c3-5084-442c-a4f6-ac696fb0f7b7",
+                "resourcePath": "views\\9d9a6515-cb51-4965-bdb6-fcd5bdecddf6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a6393e92-2c48-47b9-8303-599f0753c99c",
+            "Value": {
+                "id": "da8920d1-a0e6-47e6-90e3-000a16f78ffc",
+                "resourcePath": "objects\\obj_dialogue\\obj_dialogue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
             "Key": "a676710b-c4c9-4450-be61-461878246d96",
             "Value": {
                 "id": "25c628b5-a562-4e8d-a3ee-254456ef9d6a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/a676710b-c4c9-4450-be61-461878246d96.yy",
                 "resourceType": "GMFolder"
             }
@@ -441,17 +242,6 @@
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "2fc8d197-3c98-4aad-b0b2-22e9645e3042",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
             }
@@ -460,17 +250,6 @@
             "Key": "a93a488a-958e-40f9-965f-db3211945b4a",
             "Value": {
                 "id": "b1aeaadd-514e-40cb-a549-0703be7fa08b",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_add_weapon\/scr_add_weapon.yy",
                 "resourceType": "GMScript"
             }
@@ -479,17 +258,6 @@
             "Key": "ab7af4f3-5c50-436a-ab54-59576c4d32d4",
             "Value": {
                 "id": "24dd48e6-1577-43c3-b240-f9c65ef2e9c4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "rooms\/room0\/room0.yy",
                 "resourceType": "GMRoom"
             }
@@ -498,17 +266,6 @@
             "Key": "afa6c77a-c12f-4038-9eb1-a6b5684503b2",
             "Value": {
                 "id": "79cbc9db-44a1-4ac1-9a1c-16247772010d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "tilesets\/Ground\/Ground.yy",
                 "resourceType": "GMTileSet"
             }
@@ -517,18 +274,15 @@
             "Key": "bcbe15c2-498d-4e02-836c-87a5cad5803c",
             "Value": {
                 "id": "9404008b-f3b5-45a6-9d18-9b830781cc86",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_slot\/obj_slot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c27e428b-76fe-4106-b342-6f72c0b2b801",
+            "Value": {
+                "id": "4f5b1a5b-a577-4d0e-92e7-cd03e3a723e6",
+                "resourcePath": "objects\\obj_item_sword\\obj_item_sword.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -536,17 +290,6 @@
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "768c35f8-b728-451a-b816-6c3b4b29c62d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
             }
@@ -555,17 +298,6 @@
             "Key": "cfbdba63-c63b-4e37-bde2-99182889c2bc",
             "Value": {
                 "id": "4ae108c2-9605-4b30-98c4-2a70da72e80f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/cfbdba63-c63b-4e37-bde2-99182889c2bc.yy",
                 "resourceType": "GMFolder"
             }
@@ -574,17 +306,6 @@
             "Key": "dae8aa91-c3ca-4907-a628-f095ecbc8cb5",
             "Value": {
                 "id": "f8df1e21-8bd8-4dfd-bf9b-e593fb87a729",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/dae8aa91-c3ca-4907-a628-f095ecbc8cb5.yy",
                 "resourceType": "GMFolder"
             }
@@ -593,18 +314,15 @@
             "Key": "dea8d128-e446-45a9-be91-004bc98ec530",
             "Value": {
                 "id": "dae86d7c-4952-4906-93a5-9c567f9e5589",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/dea8d128-e446-45a9-be91-004bc98ec530.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e48ea2d4-2e0d-43c5-bad1-69ebaabc3097",
+            "Value": {
+                "id": "4896e60a-f478-4365-867e-eb95ca85873f",
+                "resourcePath": "views\\e48ea2d4-2e0d-43c5-bad1-69ebaabc3097.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -612,17 +330,6 @@
             "Key": "ec348339-e69d-486d-b920-bf42408dfc36",
             "Value": {
                 "id": "0a933ebe-5904-4213-87cc-fd8e1d93a5ef",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/ec348339-e69d-486d-b920-bf42408dfc36.yy",
                 "resourceType": "GMFolder"
             }
@@ -631,17 +338,6 @@
             "Key": "eda01142-4e73-483c-8644-0b99a8ac9ccf",
             "Value": {
                 "id": "d10f1b7f-f979-497f-a610-69257a63242f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "scripts\/scr_add_food\/scr_add_food.yy",
                 "resourceType": "GMScript"
             }
@@ -650,17 +346,6 @@
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "6e1dc9dc-0783-4eaa-b63f-90789a16bb9e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
@@ -669,17 +354,6 @@
             "Key": "f74b52c0-0493-4a7a-9656-4861bc5f8b43",
             "Value": {
                 "id": "0a0e4b30-c914-4cd8-801b-7906e44781ee",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/obj_player\/obj_player.yy",
                 "resourceType": "GMObject"
             }
@@ -688,18 +362,15 @@
             "Key": "fb792f67-d8c9-4c71-987a-6a0a87078eed",
             "Value": {
                 "id": "ca6d7c75-6bf5-49cb-9764-02b7015b5aa0",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/fb792f67-d8c9-4c71-987a-6a0a87078eed.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb993edb-fe36-499d-93c3-aff1f3bfb416",
+            "Value": {
+                "id": "2eaff92f-7e14-42ee-8166-37eaa6d6d808",
+                "resourcePath": "views\\fb993edb-fe36-499d-93c3-aff1f3bfb416.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -707,17 +378,6 @@
             "Key": "ff7f8da5-dd1e-4ae1-954d-2f00228fdaf9",
             "Value": {
                 "id": "ca43fdc3-a3c5-40de-b5de-007e7872409f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "views\/ff7f8da5-dd1e-4ae1-954d-2f00228fdaf9.yy",
                 "resourceType": "GMFolder"
             }
@@ -727,7 +387,8 @@
         "a93a488a-958e-40f9-965f-db3211945b4a",
         "eda01142-4e73-483c-8644-0b99a8ac9ccf",
         "1b1875e7-ff22-4fab-938c-5dabea08be7e",
-        "258f9dd1-5227-474d-8511-cd31a82a0096"
+        "258f9dd1-5227-474d-8511-cd31a82a0096",
+        "80c4bf0a-f710-45ac-b00d-52901e14140d"
     ],
     "tutorial": ""
 }

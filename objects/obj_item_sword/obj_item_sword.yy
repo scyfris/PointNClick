@@ -1,12 +1,21 @@
 {
-    "id": "5073df76-7208-45fc-a10e-52bd87db6100",
+    "id": "c27e428b-76fe-4106-b342-6f72c0b2b801",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flower",
+    "name": "obj_item_sword",
     "eventList": [
-        
+        {
+            "id": "d42de9a5-bb06-4f02-bf64-7f939f984283",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c27e428b-76fe-4106-b342-6f72c0b2b801"
+        }
     ],
-    "maskSpriteId": "7689dfa8-23f5-4713-9123-f30c51e1885c",
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "4827d5eb-dad9-46fc-8edd-b64dbccad7de",
     "persistent": false,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7689dfa8-23f5-4713-9123-f30c51e1885c",
+    "spriteId": "09391a93-3fd2-4d45-afa6-d96fca05448c",
     "visible": true
 }
